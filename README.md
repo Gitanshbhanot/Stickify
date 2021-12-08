@@ -2,6 +2,9 @@
 
 This webpage will make your sticker😁.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90b00b06-81d4-4451-b78e-021a780f152f/deploy-status)](https://app.netlify.com/sites/stickify09/deploys)
+
+
 ## Main Webpage
 
 ![Starting_Webpage](https://github.com/garvitchaudhary9/Stickify/blob/master/Website_Page1.jpeg)
