@@ -4,19 +4,19 @@ This webpage will make your sticker😁.
 
 ## Main Webpage
 
-![Starting_Webpage](http://url/to/img.png)
+![Starting_Webpage](https://github.com/garvitchaudhary9/Stickify/blob/master/Website_Page1.jpeg)
 
 ## Captured Image
 
-![Captured_image](http://url/to/img.png)
+![Captured_image](https://github.com/garvitchaudhary9/Stickify/blob/master/Captured_Image.jpeg)
 
 ## Edge Tracing
 
-![Edge_tracing](http://url/to/img.png)
+![Edge_tracing](https://github.com/garvitchaudhary9/Stickify/blob/master/Edge_Drawing.jpeg)
 
 ## Sticker
 
-![Sticker](http://url/to/img.png)
+![Sticker](https://github.com/garvitchaudhary9/Stickify/blob/master/Sticker.jpeg)
 
 ## Installations
 
